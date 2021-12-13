@@ -6,23 +6,23 @@
 
   let users = [
     {
-      name: "Isaac Hermel Reginato",
+      name: "Ferdinand Green",
       points: 120,
     },
     {
-      name: "Iury Xaviel Pereira",
+      name: "Ellery Porter",
       points: 110,
     },
     {
-      name: "Rodrigo Mello",
+      name: "Laurel Parham",
       points: 150,
     },
     {
-      name: "Luis Felipe",
+      name: "Tony Badman",
       points: 200,
     },
     {
-      name: "Joao Cecconello",
+      name: "Noah Brown",
       points: 240,
     },
   ];
